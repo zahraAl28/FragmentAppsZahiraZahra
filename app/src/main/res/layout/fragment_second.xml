@@ -17,5 +17,6 @@
         android:id="@+id/tvSecondFragment"
         android:textSize="26pt"
         android:textColor="@color/colorAccent"
-        android:text="@string/disini_tampil"
+        android:text="@string/disini_tampil"/>
+
 </RelativeLayout>
